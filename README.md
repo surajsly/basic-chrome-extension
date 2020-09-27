@@ -2,5 +2,5 @@
 
 This is a simple react based chrome extension that show current time.
 
- ![Screenshot](/image/ss.png)
+ ![](/images/ss1.PNG)
 
